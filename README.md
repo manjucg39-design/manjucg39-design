@@ -40,6 +40,4 @@ Git, GitHub and backend development.
    Green Corridor Smart Ambulance Traffic Management System
 
 ## Connect With Me
-
-LinkedIn: [Your LinkedIn]
-Email: [Your Email]
+Email: [manjucg39@gmail.com]
